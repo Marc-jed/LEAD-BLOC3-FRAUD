@@ -34,8 +34,6 @@ data entièrement automatisé et supervisé.
 ## Technologies
 Airflow · FastAPI · S3 · PostgreSQL · XGBoost · MLflow · Docker · Airtable
 
-## 📽️ Démo
+## Démo
 Voir dossier VIDEO-PRESENTATION
 
-## 👤 Auteur
-Ton nom / GitHub / LinkedIn
