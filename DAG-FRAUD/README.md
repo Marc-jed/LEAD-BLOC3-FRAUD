@@ -83,7 +83,7 @@ DAG-FRAUD/
    * taux de fraude
 3. Génération de graphiques (Plotly)
 4. Envoi d’un rapport par email
-5. Alimentation d’Airtable / Tableau BI
+5. Alimentation d’Airtable 
 
  **Objectif** : suivi business et analyse historique
 
