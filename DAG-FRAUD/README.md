@@ -52,7 +52,7 @@ DAG-FRAUD/
 
  **Pipeline temps réel – Collecte & prédiction**
 
-**Fréquence** : toutes les X secondes / minutes
+**Fréquence** : toutes les minutes
 
 #### Étapes principales :
 
